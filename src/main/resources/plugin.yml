@@ -1,0 +1,7 @@
+name: Practice
+version: '${project.version}'
+main: me.larssies.pracmain.PracMain
+api-version: 1.19
+authors: [ Larssies ]
+commands:
+  leave:
